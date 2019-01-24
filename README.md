@@ -1,7 +1,7 @@
 # Polypharmacy and Medication Management
 
 ### This website provides information about Snow Feng's research on polypharmacy (publications, media, and coding related to polypharmacy).
-# Publication
+# Publications
 ## Peer-review Publications
 ### Feng X, Tan X, Riley B, Zheng T, Bias TK, Becker JB, Sambamoorthi U. Prevalence and Geographic Variations of Polypharmacy Among West Virginia Medicaid Beneficiaries. Annals of Pharmacotherapy. 2017 Nov;51(11):981-9.[link](https://journals.sagepub.com/doi/abs/10.1177/1060028017717017)
 ### Feng, X., Tan, X., Riley, B., Zheng, T., Bias, T., & Sambamoorthi, U. (2018). Polypharmacy and multimorbidity among medicaid enrollees: A multistate analysis. Population health management, 21(2), 123-129.[Link](https://www.liebertpub.com/doi/abs/10.1089/pop.2017.0065)
