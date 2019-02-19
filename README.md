@@ -13,9 +13,9 @@
 ### Feng X, Higa GM, Safarudin F, Sambamoorthi U, Chang J, Tan X. Prevalence and Factors associated with Potentially Inappropriate Medication Use in Older Medicare Beneficiaries with Cancer.Presented at 2019 AACR-JCA joint conference [link](https://www.aacr.org/Documents/AACRJCA19_Poster%20Session%20A.pdf)
 
 # Potential DDI measure)
-[DDI](https://youtu.be/d2fs7UTuz8M)
+[![](http://medicationmanagement.github.io/屏幕快照 2019-02-02 上午11.26.41.png)](https://youtu.be/d2fs7UTuz8M "click to play on youtube)
 ![ddimeasure](http://medicationmanagement.github.io/屏幕快照 2019-02-02 上午11.26.41.png)
-# Polypharmacy measure
+# Polypharmacy measure 
 ![polypharmacy](http://medicationmanagement.github.io/屏幕快照 2019-02-02 下午1.38.40.png)
 # R coding
 ### R coding/package for calculating drug-drug interactions [download](http://medicationmangement.github.io/download.html)
