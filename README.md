@@ -13,7 +13,7 @@
 ### Feng X, Higa GM, Safarudin F, Sambamoorthi U, Chang J, Tan X. Prevalence and Factors associated with Potentially Inappropriate Medication Use in Older Medicare Beneficiaries with Cancer.Presented at 2019 AACR-JCA joint conference [link](https://www.aacr.org/Documents/AACRJCA19_Poster%20Session%20A.pdf)
 
 # Media
-### Feng X, Zhang Y.Calculating drug-drug interactions using administrative data.Available at https://medicationmanagement.github.io/DDIcodes.html
+### Feng X, Zhang Y.Calculating drug-drug interactions using administrative data.Available at (https://medicationmanagement.github.io/DDIcodes.html)
 
 # Potential DDI measure
 [![](http://medicationmanagement.github.io/屏幕快照 2019-02-02 上午11.26.41.png)](https://youtu.be/d2fs7UTuz8M "click to play on youtube")
@@ -21,6 +21,6 @@
 # Polypharmacy measure 
 ![polypharmacy](http://medicationmanagement.github.io/屏幕快照 2019-02-02 下午1.38.40.png)
 # R coding
-### R coding/package for calculating drug-drug interactions. Using the functions ## drug_days & drug_days2 ###[download](http://medicationmanagement.github.io/DDIcodes.html)
+### R coding/package for calculating drug-drug interactions. Using the functions: drug_days & drug_days2 [download](http://medicationmanagement.github.io/DDIcodes.html)
 ## About Snow
 ### Snow Feng is now a post-doc researcher at Tufts Medical Center. Her research imedicationmangement.github.ionteterest includes concomitant medications management and cost-effective analyses to optimize resource allocations.[Google scholar profile](https://scholar.google.com/citations?user=_DPlNCsAAAAJ&hl=en) 
