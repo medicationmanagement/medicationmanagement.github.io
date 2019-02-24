@@ -23,4 +23,4 @@
 # R coding
 ### R coding/package for calculating drug-drug interactions. Using the functions: drug_days & drug_days2 [download](http://medicationmanagement.github.io/DDIcodes.html)
 ## About Snow
-### Snow Feng is now a post-doc researcher at Tufts Medical Center. Her research imedicationmangement.github.ionteterest includes concomitant medications management and cost-effective analyses to optimize resource allocations.[Google scholar profile](https://scholar.google.com/citations?user=_DPlNCsAAAAJ&hl=en) 
+### Snow Feng is now a post-doc researcher at Tufts Medical Center. Her research interest includes concomitant medications management and cost-effective analyses to optimize resource allocations.[Google scholar profile](https://scholar.google.com/citations?user=_DPlNCsAAAAJ&hl=en) 
