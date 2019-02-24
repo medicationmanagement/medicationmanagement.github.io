@@ -23,9 +23,9 @@
 #input 2: number of day (# of column in the matrix & > assessment period);
 #input 3: number of all drug-drug interactions for the study drug; 
 #input 4: drugs files directory: all other drugs profiles except study drug (cvs files)-including
-#service date, patient id, days of supply[variable name:dayssup]; 
-#input 5: study drug file directory: study drug profile (cvs file)- including service date, patient
-#id, days of supply[variable name:dayssup]; 
+#service date[variable: datenumfill], patient id [variable: id], days of supply[variable name:dayssup]; 
+#input 5: study drug file directory: study drug profile (cvs file)- including sdate[variable: datenumfill], 
+#patient id [variable: id], days of supply[variable name:dayssup]; 
 #input 6: assessment time frame for drug-drug interactin (e.g., 30 days, 6 months)
 #
 #Example: drugs_day2(4120,1000,drugtaget,drugs_day(4120,1000,9,list.files()),600)
