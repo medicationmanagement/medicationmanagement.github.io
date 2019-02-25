@@ -94,7 +94,7 @@ drugs_day2 <- function(n_pat,n_day,drugtaget,n_drug_day,time){
   ddi_num<-colMax(ddi_have_time)
   ddi_num<-as.matrix( ddi_num)
   mean(  ddi_num)-100 #minus "100" because of previous step.
-
+  }
 
 
 
