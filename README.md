@@ -26,4 +26,5 @@
 # Other research resources
 ### [click here](http://medicationmanagement.github.io/calculateDDIusng R.pdf)
 ## About Snow 
-### Snow Feng is now a research post-doc at Tufts Medical Center. Her research interests include concomitant medications management and cost-effective analyses to optimize resource allocations.Email: xufeng@mix.wvu.edu
+### Snow Feng is now a research post-doc at Tufts Medical Center. Her research interests include concomitant medications management and cost-effective analyses to optimize resource allocations.
+### Email: xufeng@mix.wvu.edu
