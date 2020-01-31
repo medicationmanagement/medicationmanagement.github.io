@@ -1,1 +1,15 @@
-#2019新型肺炎病毒感染分布
+<head>
+  <title>2019新型肺炎病毒分布追踪</title>
+</head>
+<style>
+  body {background-color: black;}
+  h1 {color: white;}
+  h2 {color: white;}
+  p {color: white;}
+  <style>
+img { 
+    width:100%; 
+}
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<h1>  </h1>
